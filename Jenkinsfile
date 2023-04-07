@@ -1,2 +1,2 @@
 @Library('eds.sharedlibrary') _
-edsApp 'https://github.com/dribdrab/edsApp1.git'
+edsApp 'https://github.com/dribdrab/edsApp2.git'
